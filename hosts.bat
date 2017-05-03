@@ -1,0 +1,1 @@
+echo 192.168.99.9 %1 >> C:\Windows\System32\drivers\etc\hosts
